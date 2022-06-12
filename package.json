@@ -1,0 +1,19 @@
+{
+  "name": "photo",
+  "version": "1.0.0",
+  "description": "Photo website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathisV/Photo.git"
+  },
+  "author": "Mathis Verleene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathisV/Photo/issues"
+  },
+  "homepage": "https://github.com/MathisV/Photo#readme"
+}
